@@ -1,5 +1,5 @@
 
-- 📫 [*Please visit my homepage*](https://amandasunnn.github.io/)
+- 📫 [__*Please visit my homepage*__](https://amandasunnn.github.io/)
 - Thank you ٩۹(๑•̀ω•́ ๑)۶
 <!---
 Amandasunnn/Amandasunnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
